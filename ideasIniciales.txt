@@ -1,0 +1,7 @@
+-app para encontrar compañeros con los que hacer ocio.
+-servicio para ayudar a programar
+-camisetas, tazas, sudaderas con diseños personalizados con diferentes funcionalidades
+-app que te da informacion sobre fiestas de barrio y patronales
+-tablon web de anuncios y promoción
+-"escape room" de diferentes lenguajes de programación
+-
